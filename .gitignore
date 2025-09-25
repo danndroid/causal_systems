@@ -1,3 +1,14 @@
+# default
 .ipynb_checkpoints
 __pycache__/
 local_data/
+
+
+# connplexity lab 
+ARC_database/
+causal_TNM/
+data/
+hasda/
+hcp/
+iARC/
+
